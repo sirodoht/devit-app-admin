@@ -1,0 +1,17 @@
+.array-field {
+  margin-bottom: 20px;
+  font-size: 20px;
+  height: 45px;
+  border-radius: 2px;
+  box-shadow: none;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.array-field:hover {
+  border-color: #999;
+}
+.array-field:focus {
+  border-color: #222;
+  box-shadow: none;
+}
